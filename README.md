@@ -15,6 +15,7 @@
 
 ![Snake animation](https://github.com/LukinhasA12/LukinhasA12/blob/output/github-contribution-grid-snake.svg)
 
+
 ## 📈 Estatísticas
 
 <div>
