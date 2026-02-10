@@ -19,11 +19,10 @@
 ## 📈 Estatísticas
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=LukinhasA12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do Github" />
-  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=LukinhasA12&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LukinhasA12&theme=dracula" alt="Streak de contribuições" />
+  <img height="180em" src="https://metrics.lecoq.io/LukinhasA12?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.ignored=html,css&theme=dracula" />
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LukinhasA12&theme=dracula" />
 </div>
-
 ## 📬 Entre em contato
 
 <div align="left">
